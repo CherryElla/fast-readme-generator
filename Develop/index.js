@@ -87,19 +87,19 @@ function generateMd(fileName, data) {
 
 # ${data.title} 
 
-## Description
+## 🖊️ Description 🖊️
 
 - ${data.motivation}
 - ${data.why}
 
-## Table of Contents
+## 📜 Table of Contents 📜
 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
 
-## Installation
+## 📋 Installation 📋
 
 - ${data.install}
 
@@ -107,32 +107,32 @@ function generateMd(fileName, data) {
 
 - ${data.usage}
 
-## Credits
+## ⭐ Credits ⭐
 
-## License
+## 🪪 License 🪪
 
 - Using ${data.lice}
 
 [https://choosealicense.com/](https://choosealicense.com/).
 
-## Badges
+## 🏅 Badges 🏅
 
 - See all my badges at the top!
 
-## Questions
+## 👤 Questions 👤
 
 - My GitHub username: ${data.github} 
 - My GitHub: [GitHub Profile](www.github.com/${data.github})
 
 For additional questions you can reach me at ${data.email}
 
-## How to Contribute
+## 🪣 How to Contribute 🪣
 
 - ${data.cont}
 
 Please refer to [Contributor Covenant](https://www.contributor-covenant.org/) for more.
 
-## Tests
+## 📈 Tests 📈
 
 - ${data.tests}
 `,
